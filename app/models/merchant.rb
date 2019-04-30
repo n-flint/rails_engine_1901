@@ -1,4 +1,3 @@
 class Merchant < ApplicationRecord
-
-
+  
 end
